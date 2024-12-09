@@ -3,7 +3,7 @@
 🎓 Pursuing a Master’s in Computer Science at University of Wisconsin - Milwaukee,
 focusing on Data Science, AI, and Machine Learning.
 
-💻 Graduate Research Assistant at University of Wisconsin - Milwaukee
+💻 Graduate Research Assistant at University of Wisconsin - Milwaukee.
 
 🌟 Interests: Data Science, AI/ML, Software Development.
 
