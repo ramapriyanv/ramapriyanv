@@ -1,9 +1,9 @@
 👋 Hi, I'm Ramapriyan!
 
-🎓 Pursuing a Master’s in Computer Science at University of Wisconsin - Milwaukee,
+🎓 Master’s in Computer Science Graduate from University of Wisconsin - Milwaukee,
 focusing on Data Science, AI, and Machine Learning.
 
-💻 Graduate Research Assistant at University of Wisconsin - Milwaukee.
+💻 Ex - Graduate Research Assistant at University of Wisconsin - Milwaukee.
 
 🌟 Interests: Data Science, AI/ML, Software Development.
 
