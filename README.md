@@ -3,7 +3,7 @@
 🎓 Master’s in Computer Science Graduate from University of Wisconsin - Milwaukee,
 focusing on Data Science, AI, and Machine Learning.
 
-💻 Former Graduate Research Assistant at University of Wisconsin - Milwaukee.
+💻 Software Engineer at Acxhange.
 
 🌟 Interests: Data Science, AI/ML, Software Development.
 
